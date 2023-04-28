@@ -9,8 +9,8 @@ Hi there, I'm Mona Zarea 👋
 
 
 Connect with Me:
-<a href="https://www.linkedin.com/in/mona-zarea-072623224/" target="_blank"><img src="https://img.shields.io/badge/-Mona%20Zarea-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white%22/%3E</a>
-<a href="https://twitter.com/monazarea3" target="_blank"><img src="https://img.shields.io/badge/-@monazarea-1DA1F2?style=flat-square&logo=twitter&logoColor=white%22/%3E</a>
+<a href="https://www.linkedin.com/in/mona-zarea-072623224/" target="_blank"><img src="https://img.shields.io/badge/-Mona%20Zarea-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://twitter.com/monazarea3" target="_blank"><img src="https://img.shields.io/badge/-@monazarea-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 
 🛠  Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
